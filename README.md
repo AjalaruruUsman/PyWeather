@@ -152,7 +152,7 @@ Automatically save weather observations into CSV files for future analysis.
 
 ## Home Page
 
-![Home Page](PyWeather/a30.png)
+![Home Page](PyWeather Images/a30.png)
 
 ---
 
