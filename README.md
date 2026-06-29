@@ -148,46 +148,48 @@ Automatically save weather observations into CSV files for future analysis.
 
 ## Home Page
 
-<h2>Application Preview</h2>
-
 <p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/a30.png" width="48%">
+  <img src="PyWeather Images/a38.png" width="48%">
 </p>
 
-<p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
-</p>
 
 ---
 
 ## Current Weather
 
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="PyWeather Images/a32.png" width="48%">
+  <img src="PyWeather Images/a33.png" width="48%">
+</p>
+<p align="center">
+  <img src="PyWeather Images/a34.png" width="96%">
+</p>
 
 ---
 
 ## Forecast
-
-> *(Insert Screenshot)*
-
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
 ---
 
 ## Satellite Imagery
 
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
 
 ---
 
 ## Charts
 
-> *(Insert Screenshot)*
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
 
 ---
 
