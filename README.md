@@ -152,7 +152,7 @@ Automatically save weather observations into CSV files for future analysis.
 
 ## Home Page
 
-> *(Insert Screenshot)*
+![Home Page](PyWeather/a30.png)
 
 ---
 
