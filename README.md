@@ -31,8 +31,6 @@ The system integrates multiple weather APIs and climate datasets to provide curr
 - Technologies Used
 - APIs and Data Sources
 - Installation
-- Usage
-- Folder Structure
 - Future Improvements
 - Research Contribution
 - Author
@@ -78,8 +76,6 @@ specifically for Nigeria.
 
 - Hourly Forecast
 - Daily Forecast
-- Maximum Temperature
-- Minimum Temperature
 - Rain Probability
 - Wind Forecast
 
@@ -152,7 +148,22 @@ Automatically save weather observations into CSV files for future analysis.
 
 ## Home Page
 
-![Home Page](PyWeather Images/a30.png)
+<h2>Application Preview</h2>
+
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/logo.png" width="48%">
+</p>
 
 ---
 
