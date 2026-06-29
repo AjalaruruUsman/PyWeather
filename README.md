@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-Apache2.0-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 </p>
@@ -124,12 +124,6 @@ Automatically save weather observations into CSV files for future analysis.
 
 ---
 
-## 🔐 User Authentication
-
-Simple login system for accessing the application.
-
----
-
 # 🏗 System Architecture
 
 ```
@@ -191,8 +185,7 @@ Simple login system for accessing the application.
 - Python
 - Tkinter
 - OpenWeatherMap API
-- WeatherAPI
-- NASA POWER API
+- ERA5
 - Requests
 - Pandas
 - Matplotlib
@@ -208,8 +201,7 @@ Simple login system for accessing the application.
 |------|----------|
 | OpenWeatherMap | Current Weather |
 | OpenWeatherMap Forecast API | Weather Forecast |
-| WeatherAPI | Additional Weather Information |
-| NASA POWER | Climate Data |
+| ERA5 | Climate Data |
 | Satellite Imagery Providers | Weather Satellite Images |
 
 ---
@@ -240,31 +232,6 @@ Run the application
 python main.py
 ```
 
----
-
-# 📂 Folder Structure
-
-```
-PyWeather/
-
-│
-├── assets/
-│   ├── screenshots/
-│   ├── icons/
-│   └── logo.png
-│
-├── data/
-│
-├── images/
-│
-├── src/
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── main.py
-└── .gitignore
-```
 
 ---
 
