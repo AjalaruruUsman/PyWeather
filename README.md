@@ -30,7 +30,6 @@ The system integrates multiple weather APIs and climate datasets to provide curr
 - Screenshots
 - Technologies Used
 - APIs and Data Sources
-- Installation
 - Future Improvements
 - Research Contribution
 - Author
@@ -221,35 +220,6 @@ Automatically save weather observations into CSV files for future analysis.
 | OpenWeatherMap Forecast API | Weather Forecast |
 | ERA5 | Climate Data |
 | Satellite Imagery Providers | Weather Satellite Images |
-
----
-
-# ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/PyWeather.git
-```
-
-Navigate to the project
-
-```bash
-cd PyWeather
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python main.py
-```
-
 
 ---
 
