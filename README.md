@@ -1,7 +1,7 @@
 # 🌦️ PyWeather
 
 <p align="center">
-  <img src="assets/logo.png" alt="PyWeather Logo" width="180">
+  <img src="PyWeather Images/logo.png" alt="PyWeather Logo" width="180">
 </p>
 
 <p align="center">
