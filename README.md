@@ -159,39 +159,44 @@ Automatically save weather observations into CSV files for future analysis.
 ## Current Weather
 
 <p align="center">
-  <img src="PyWeather Images/a32.png" width="48%">
-  <img src="PyWeather Images/a33.png" width="48%">
+  <img src="PyWeather Images/f_1.png" width="48%">
+  <img src="PyWeather Images/f_2.png" width="48%">
 </p>
 <p align="center">
-  <img src="PyWeather Images/a34.png" width="96%">
+  <img src="PyWeather Images/f_3.png" width="96%">
 </p>
 
 ---
 
 ## Forecast
 <p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/f3_1.png" width="48%">
+  <img src="PyWeather Images/f3_2.png" width="48%">
 </p>
----
+<p align="center">
+  <img src="PyWeather Images/f3_3.png" width="96%">
+</p>
 
-## Satellite Imagery
 
 <p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/f12_1.png" width="48%">
+  <img src="PyWeather Images/f12_2.png" width="48%">
 </p>
-
+<p align="center">
+  <img src="PyWeather Images/f12_3.png" width="96%">
+</p>
 ---
 
-## Charts
+## Climate data
 
 <p align="center">
-  <img src="PyWeather Images/logo.png" width="48%">
-  <img src="PyWeather Images/logo.png" width="48%">
+  <img src="PyWeather Images/a39.png" width="48%">
+  <img src="PyWeather Images/a40.png" width="48%">
 </p>
 
 ---
+
+
 
 # 🛠 Technologies Used
 
